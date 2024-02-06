@@ -1,4 +1,3 @@
-# Crowdfunding_ETL-Public
 # Crowdfunding_ETL
 
 ## Overview
